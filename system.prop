@@ -1,0 +1,5 @@
+ro.hardware=samsungexynos8895
+ro.chipname=exynos8895
+ro.arch=exynos8895
+ro.boot.bootdevice=11120000.ufs
+ro.sf.lcd_density=560
