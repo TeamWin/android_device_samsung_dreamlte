@@ -52,6 +52,7 @@ TW_HAS_DOWNLOAD_MODE := true
 TW_INCLUDE_NTFS_3G := true
 TW_EXCLUDE_SUPERSU := true
 TW_EXTRA_LANGUAGES := true
+TW_USE_NEW_MINADBD := true
 
 # Include
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/dreamlte/include
