@@ -56,3 +56,6 @@ TW_USE_NEW_MINADBD := true
 
 # Include
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/dreamlte/include
+
+# SELinux Policies
+BOARD_SEPOLICY_DIRS := device/samsung/dream2lte/sepolicy

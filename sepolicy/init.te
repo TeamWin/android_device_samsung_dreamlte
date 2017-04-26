@@ -1,0 +1,2 @@
+allow init configfs:file { getattr open unlink write };
+allow init configfs:lnk_file create;
