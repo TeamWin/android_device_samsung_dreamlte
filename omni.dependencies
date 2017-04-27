@@ -7,8 +7,8 @@
 	},
 	{
 		"remote":"github",
-		"repository":"jesec/android_kernel_samsung_universal8895",
+		"repository":"TeamWin/android_kernel_samsung_universal8895",
 		"target_path":"kernel/samsung/universal8895",
-		"revision":"tw-7.0"
+		"revision":"android-7.1"
 	}
 ]
