@@ -23,4 +23,4 @@
 /efs           ext4   /dev/block/platform/11120000.ufs/by-name/EFS        flags=backup=1;display="EFS"
 /misc          emmc   /dev/block/platform/11120000.ufs/by-name/MISC
 /external_sd   vfat   /dev/block/mmcblk0p1 /dev/block/mmcblk0             flags=display="Micro SDcard";storage;wipeingui;removable
-/usb-otg       vfat   /dev/block/sde1 /dev/block/sde                      flags=display="USB-OTG";storage;wipeingui;removable
+/usb-otg       vfat   /dev/block/sdf1 /dev/block/sdf                      flags=display="USB-OTG";storage;wipeingui;removable
