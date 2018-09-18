@@ -1,0 +1,3 @@
+ro.arch=universal8895
+ro.chipname=universal8895
+persist.sys.usb.config=mtp,adb
