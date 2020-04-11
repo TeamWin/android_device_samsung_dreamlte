@@ -22,6 +22,6 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 PRODUCT_DEVICE := dreamlte
 PRODUCT_NAME := omni_dreamlte
-PRODUCT_MODEL := SM-G950F
-PRODUCT_BRAND := samsung
-PRODUCT_MANUFACTURER := samsung
+PRODUCT_MODEL := Galaxy S8
+PRODUCT_BRAND := Samsung
+PRODUCT_MANUFACTURER := Samsung
