@@ -140,6 +140,9 @@
 /dev/smd4                 0660   system     radio
 /dev/ramdump_memshare     0660   system     radio
 
+# dev ril bridge
+/dev/drb	          0660   system     radio
+
 # interactive governor parameters
 /sys/devices/system/cpu/cpu*	cpufreq/interactive/timer_rate			0660	system	system
 /sys/devices/system/cpu/cpu*	cpufreq/interactive/timer_slack			0660	system	system
