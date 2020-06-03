@@ -5,6 +5,7 @@
 /recovery       emmc   /dev/block/platform/11120000.ufs/by-name/RECOVERY      flags=backup=1
 /cache          ext4   /dev/block/platform/11120000.ufs/by-name/CACHE         flags=display="Cache"
 /system         ext4   /dev/block/platform/11120000.ufs/by-name/SYSTEM        flags=display="System"
+/system_image   emmc   /dev/block/platform/11120000.ufs/by-name/SYSTEM
 /data           ext4   /dev/block/platform/11120000.ufs/by-name/USERDATA      flags=encryptable=footer;length=-20480
 /modem          emmc   /dev/block/platform/11120000.ufs/by-name/RADIO         flags=backup=1;display="Baseband"
 /efs            ext4   /dev/block/platform/11120000.ufs/by-name/EFS           flags=backup=1;display="EFS"
