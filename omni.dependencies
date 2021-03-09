@@ -1,8 +1,0 @@
-[
-	{
-		"remote":"github",
-		"repository":"corsicanu/android_kernel_samsung_universal8895",
-		"target_path":"kernel/samsung/universal8895",
-		"revision":"android-9.0"
-	}
-]
